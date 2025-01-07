@@ -7,7 +7,9 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">369131520</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Item Name="Robo_Programs" Type="Folder">
+		<Item Name="arm_calc.vi" Type="VI" URL="../Robo_Programs/arm_calc.vi"/>
 		<Item Name="main.vi" Type="VI" URL="../Robo_Programs/main.vi"/>
+		<Item Name="target_detection.vi" Type="VI" URL="../Robo_Programs/target_detection.vi"/>
 	</Item>
 	<Item Name="IntLibraryData" Type="LibraryData">
 		<Property Name="NI.LibData.ItemData" Type="Bin">&amp;A#!!!!!!!%!"!"4!!%!!"9!A!!!!!!#!!V!!Q!(4H6N:8*J9Q!/1&amp;!!!1!!"%2B&gt;'%!!!%!!1!!!!!!!!!!!!!!!!</Property>
