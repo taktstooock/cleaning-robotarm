@@ -7,15 +7,13 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">369131520</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Item Name="Robo_Programs" Type="Folder">
-		<Item Name="base.vi" Type="VI" URL="../Robo_Programs/base.vi"/>
 		<Item Name="main.vi" Type="VI" URL="../Robo_Programs/main.vi"/>
 	</Item>
-	<Item Name="Robo_Schema" Type="Folder">
-		<Item Name="robo_schema.bin" Type="Document" URL="../robo_schema.bin"/>
-	</Item>
 	<Item Name="IntLibraryData" Type="LibraryData">
-		<Property Name="NI.LibData.ItemData" Type="Bin">&amp;A#!!!!!!!%!"!"4!!%!!"9!A!!!!!!#!!V!!Q!(4H6N:8*J9Q!71&amp;!!!1!!$&amp;2P='^M&lt;W&gt;Z2'&amp;U91!!!1!"!!!!!Q!!!!!!!!!!</Property>
+		<Property Name="NI.LibData.ItemData" Type="Bin">&amp;A#!!!!!!!%!"!"4!!%!!"9!A!!!!!!#!!V!!Q!(4H6N:8*J9Q!/1&amp;!!!1!!"%2B&gt;'%!!!%!!1!!!!!!!!!!!!!!!!</Property>
 		<Property Name="NI.LibData.Version" Type="Str">1.0.0.0</Property>
 	</Item>
+	<Item Name="move_to_angle.vi" Type="VI" URL="../Robo_Programs/move_to_angle.vi"/>
 	<Item Name="Robo_pic.png" Type="Document" URL="../Robo_pic.png"/>
+	<Item Name="stop_motor.vi" Type="VI" URL="../Robo_Programs/stop_motor.vi"/>
 </Library>
